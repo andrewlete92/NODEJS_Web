@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/tumbelin/nodeproject2#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "hbs": "^4.0.4"
   }
 }
